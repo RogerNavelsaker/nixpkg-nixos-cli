@@ -10,7 +10,8 @@
     "version": "2.3.0-p2"
   },
   "package": {
-    "revision": 2
+    "revision": 2,
+    "version": "2.3.0-p2"
   },
   "binary": {
     "name": "nixos-cli",
