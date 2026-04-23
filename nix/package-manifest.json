@@ -5,8 +5,8 @@
     "owner": "RogerNavelsaker",
     "repo": "nixos-cli",
     "defaultBranch": "main",
-    "rev": "ea2f88762f8929acf04a3e61812718aa074a9768",
-    "hash": "sha256-6j3e+4di/ShzoyKD8h6pWimKb2bHOXVA6jSsapyjRk8=",
+    "rev": "645d5fee2f8b1b1dc937eaefd6775a98d6618062",
+    "hash": "sha256-LGydzNFon6McVjCFGITZgalihREBbqTMtL7+e63BzaI=",
     "version": "2.3.0-p2"
   },
   "package": {
